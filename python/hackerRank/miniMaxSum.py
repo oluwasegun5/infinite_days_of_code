@@ -1,6 +1,6 @@
 def miniMaxSum(arr):
     # Write your code here
-    lowest_number = 10000000000
+    lowest_number = arr[0]
     highest_number = 0
     sum = 0
 
